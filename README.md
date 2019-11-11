@@ -1,2 +1,2 @@
-# Storinka
-The most basic free website that a total beginner can create!
+# Dota2
+Картинка
