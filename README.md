@@ -1,3 +1,3 @@
 # Dota2
 Картинка
-Обложка_Dota_2.jpg
+![Dota2 screen](Обложка_Dota_2.jpg)
